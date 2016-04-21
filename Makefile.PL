@@ -1,5 +1,7 @@
 # Module makefile for Bundle::Thread (using ExtUtils::MakeMaker)
 
+require 5.008;
+
 use strict;
 use warnings;
 
