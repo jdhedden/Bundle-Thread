@@ -2,7 +2,7 @@ package Bundle::Thread;
 
 use strict;
 
-our $VERSION = '1.01';
+our $VERSION = '1.02';
 $VERSION = eval $VERSION;
 
 1;
@@ -27,9 +27,9 @@ threads 1.67                    - Support for threads
 
 threads::shared 1.15            - Support for sharing objects between threads
 
-Thread::Queue 2.02              - Thread-safe queues
+Thread::Queue 2.04              - Thread-safe queues
 
-Thread::Semaphore 2.04          - Thread-safe semaphores
+Thread::Semaphore 2.05          - Thread-safe semaphores
 
 Thread::Suspend 1.09            - Suspend and resume operations for threads
 
