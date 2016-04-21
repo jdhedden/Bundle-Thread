@@ -1,4 +1,4 @@
-Bundle::Thread version 1.09
+Bundle::Thread version 1.13
 ===========================
 
 A bundle of modules for supporting threads in Perl
@@ -9,7 +9,7 @@ INSTALLATION
 
 COPYRIGHT AND LICENCE
 
-Copyright 2008 Jerry D. Hedden. All rights reserved.
+Copyright 2008, 2009 Jerry D. Hedden. All rights reserved.
 
 This program is free software; you can redistribute it and/or modify it under
 the same terms as Perl itself.
