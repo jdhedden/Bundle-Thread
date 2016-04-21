@@ -3,7 +3,7 @@ package Bundle::Thread;
 use strict;
 use warnings;
 
-our $VERSION = '1.07';
+our $VERSION = '1.08';
 $VERSION = eval $VERSION;
 
 1;
@@ -32,7 +32,7 @@ Thread::Semaphore 2.07          - Thread-safe semaphores
 
 Thread::Queue 2.06              - Thread-safe queues
 
-Thread::Suspend 1.15            - Suspend and resume operations for threads
+Thread::Suspend 1.16            - Suspend and resume operations for threads
 
 Thread::Cancel 1.07             - Cancel (i.e., kill) threads
 
