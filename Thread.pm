@@ -3,7 +3,7 @@ package Bundle::Thread;
 use strict;
 use warnings;
 
-our $VERSION = '1.14';
+our $VERSION = '1.16';
 $VERSION = eval $VERSION;
 
 1;
@@ -20,21 +20,21 @@ Bundle::Thread - A bundle of modules for supporting threads in Perl
 
 =head1 CONTENTS
 
-Test::Simple 0.94               - Used for module testing
+Test::Simple 0.96               - Used for module testing
 
 Scalar::Util 1.23               - Used by several of the other modules below
 
-threads 1.77                    - Support for threads
+threads 1.82                    - Support for threads
 
-threads::shared 1.33            - Support for sharing objects between threads
+threads::shared 1.36            - Support for sharing objects between threads
 
-Thread::Semaphore 2.09          - Thread-safe semaphores
+Thread::Semaphore 2.12          - Thread-safe semaphores
 
-Thread::Queue 2.11              - Thread-safe queues
+Thread::Queue 2.12              - Thread-safe queues
 
-Thread::Suspend 1.19            - Suspend and resume operations for threads
+Thread::Suspend 1.21            - Suspend and resume operations for threads
 
-Thread::Cancel 1.11             - Cancel (i.e., kill) threads
+Thread::Cancel 1.13             - Cancel (i.e., kill) threads
 
 =head1 DESCRIPTION
 
