@@ -3,7 +3,7 @@ package Bundle::Thread;
 use strict;
 use warnings;
 
-our $VERSION = '1.13';
+our $VERSION = '1.14';
 $VERSION = eval $VERSION;
 
 1;
@@ -24,7 +24,7 @@ Test::Simple 0.94               - Used for module testing
 
 Scalar::Util 1.23               - Used by several of the other modules below
 
-threads 1.76                    - Support for threads
+threads 1.77                    - Support for threads
 
 threads::shared 1.33            - Support for sharing objects between threads
 
@@ -34,7 +34,7 @@ Thread::Queue 2.11              - Thread-safe queues
 
 Thread::Suspend 1.19            - Suspend and resume operations for threads
 
-Thread::Cancel 1.09             - Cancel (i.e., kill) threads
+Thread::Cancel 1.11             - Cancel (i.e., kill) threads
 
 =head1 DESCRIPTION
 
