@@ -40,6 +40,14 @@ Thread::Cancel 1.13             - Cancel (i.e., kill) threads
 
 This bundle includes modules used to test and support threads in Perl.
 
+=head1 SEE ALSO
+
+L<Bundle::Thread> on MetaCPAN:
+L<https://metacpan.org/release/Bundle-Thread>
+
+Code repository:
+L<https://github.com/jdhedden/Bundle-Thread>
+
 =head1 AUTHOR
 
 Jerry D. Hedden, S<E<lt>jdhedden AT cpan DOT orgE<gt>>
