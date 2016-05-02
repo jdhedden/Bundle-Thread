@@ -42,7 +42,7 @@ This bundle includes modules used to test and support threads in Perl.
 
 =head1 SEE ALSO
 
-L<Bundle::Thread> on MetaCPAN:
+Bundle::Thread on MetaCPAN:
 L<https://metacpan.org/release/Bundle-Thread>
 
 Code repository:
