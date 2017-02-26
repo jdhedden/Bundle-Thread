@@ -24,7 +24,7 @@ Test::Simple 1.302059           - Used for module testing
 
 Scalar::Util 1.47               - Used by several of the other modules below
 
-threads 2.14                    - Support for threads
+threads 2.15                    - Support for threads
 
 threads::shared 1.55            - Support for sharing objects between threads
 
