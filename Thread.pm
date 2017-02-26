@@ -3,7 +3,7 @@ package Bundle::Thread;
 use strict;
 use warnings;
 
-our $VERSION = '1.22';
+our $VERSION = '1.23';
 $VERSION = eval $VERSION;
 
 1;
@@ -24,9 +24,9 @@ Test::Simple 1.302059           - Used for module testing
 
 Scalar::Util 1.47               - Used by several of the other modules below
 
-threads 2.12                    - Support for threads
+threads 2.14                    - Support for threads
 
-threads::shared 1.54            - Support for sharing objects between threads
+threads::shared 1.55            - Support for sharing objects between threads
 
 Thread::Semaphore 2.13          - Thread-safe semaphores
 
